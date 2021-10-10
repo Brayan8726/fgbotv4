@@ -4,14 +4,11 @@ exports.help = (prefix,pushname) => {
 ≡ INFO Bot XD
 ┌──────────────
 ❐ *${prefix}reglas*
-❐ *${prefix}creador*
 ❐ *${prefix}info*
-❐ *${prefix}bot* _(simsimi)_
 ❐ *${prefix}report*
 ❐ *${prefix}ping*
 ❐ *${prefix}runtime*
 ❐ *${prefix}estado*
-❐ *${prefix}soporte*
 ❐ *${prefix}Join*
 ❐ *${prefix}banlist*
 ❐ *prefijo*
