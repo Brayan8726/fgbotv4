@@ -65,8 +65,6 @@ exports.help = (prefix,pushname) => {
 └──────────────
 
 ┌───⊷ *MEDIA* ⊶
-▢ *${prefix}tourl*
-▢ *${prefix}toav*
 ▢ *${prefix}tomp3*
 ▢ *${prefix}wame*
 ▢ *${prefix}ocr*
