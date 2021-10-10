@@ -2,7 +2,7 @@
 
 //-- 
 const wait = () => { 
-return '*⌛ _Cargando..._ ▬▬▬▭*\n\n*🧘🏻‍♂️ Espere por favor,* esto puede tomar unos segundos.'
+return '*⌛ _Cargando..._ ▬▬▬▭*\n\n* Espere por favor,* esto puede tomar unos segundos.'
 }
 
 //--
