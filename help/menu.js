@@ -39,10 +39,6 @@ exports.help = (prefix,pushname) => {
 └──────────────
 
 ┌───⊷ *DESCARGAS* ⊶ 
-▢ *${prefix}play* 
-▢ *${prefix}playvid* 
-▢ *${prefix}ytmp3*
-▢ *${prefix}ytmp4*
 ▢ *${prefix}instagram*
 ▢ *${prefix}tiktok*
 ▢ *${prefix}tiktokaudio*
@@ -55,11 +51,8 @@ exports.help = (prefix,pushname) => {
 ▢ *${prefix}Lyrics*
 └──────────────
 
-┌───⊷ *EDUCACIÓN* ⊶
-▢ *${prefix}covid*
-▢ *${prefix}hora*
-▢ *${prefix}encode*
-▢ *${prefix}decode*
+┌───⊷ *HI*
+よし、あなたの一日はどうですか？
 └──────────────
 
 ┌───⊷ *MEDIA* ⊶
