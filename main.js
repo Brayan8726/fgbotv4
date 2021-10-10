@@ -114,7 +114,7 @@ Fg.on('group-participants-update', async (anu) => {
 ┌──────────────
 ▢ *Nombre* : @${num.split('@')[0]}
 ▢ *Número* : ${num.replace('@s.whatsapp.net', '')}
-▢ *Mensaje* : Lo siento :'v
+▢ *Mensaje* : Lo siento papu:'v
 └──────────────`
 				let buff = await getBuffer(ppimg)
 				Fg.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
